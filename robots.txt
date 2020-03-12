@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahngeeker.timoney.xyz/sitemap.xml
